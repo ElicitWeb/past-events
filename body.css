@@ -1,0 +1,265 @@
+.body-div{
+    background-color: #030303;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    margin: 10%;
+    color: aliceblue;
+    font-family: Readex pro;
+    font-size: 2rem;
+    font-weight: 700;
+    min-height: 23em;
+}
+
+.mob1{
+    display: grid;
+    grid-template-rows: 1.5fr 1fr;
+    width: 98%;
+    height: 98%;
+    margin: 0.5%;
+    margin-bottom: 0;
+}
+
+.three-ti-one-ev{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    height: 100%;
+}
+
+.ti1{
+    border-radius: 50px 0px 0px 0px;
+    opacity: 0.6;
+    background: linear-gradient(180deg, #9470DB 0%, rgba(148, 112, 219, 0.00) 100%);
+    width: 90%;
+    height: 97%;
+}
+
+.two-ti-one-ev{
+    display: grid;
+    grid-template-rows: 1fr 2.3fr;
+}
+
+.two-ti{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    height: 90%;
+}
+
+.ti2{
+    border-radius: 0px 0px 30px 30px;
+    background: linear-gradient(4deg, #1F0F3D 0%, rgba(31, 15, 61, 0.00) 100%);
+    height: 100%;
+    width:89%;
+}
+
+.ti3{
+    border-radius: 70px 70px 0px 0px;
+    background: linear-gradient(180deg, #3D1F7A 0%, rgba(61, 31, 122, 0.00) 100%);
+    width: 100% ;
+    height:100%;
+}
+
+.ev5{
+    position: relative;
+    border-radius: 70px 0px;
+    background: linear-gradient(360deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+    backdrop-filter: blur(2px);
+    height: 96%;
+}
+
+.four-ti-two-ev{
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    width: 100%;
+}
+
+.two-ti-ev1{
+    display: grid;
+    grid-template-rows: 1fr 2.2fr;
+    width: 94%;
+}
+
+.two-ti-ev2{
+    display: grid;
+    grid-template-rows: 1.4fr 1fr;
+}
+
+.two-ti1{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    height: 88%;
+}
+
+.two-ti2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) ;
+    height: 100%;
+}
+
+.ti4{
+    border-radius: 0px 19px 19px 19px;
+    background: linear-gradient(180deg, #1F0F3D 0%, rgba(31, 15, 61, 0.00) 100%);
+    height: 100%;
+    width: 200%;;
+}
+
+.ti5{
+    fill: linear-gradient(180deg, rgba(148, 112, 219, 0.64) 0%, rgba(148, 112, 219, 0.00) 100%);
+    opacity: 0.6;
+    height: 100%;
+}
+
+.ev6{
+    border-radius: 50px 0px;
+    background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+    backdrop-filter: blur(2px);
+    height: 100%;
+    width:100%;
+    position: relative;
+}
+
+.ev7{
+    border-radius: 70px 70px 0px 0px;
+    background: linear-gradient(359deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+    backdrop-filter: blur(2px);
+    height: 92%;
+    position: relative;
+}
+
+.ti6{
+    border-radius: 19px;
+    background: linear-gradient(180deg, #1F0F3D 0%, rgba(31, 15, 61, 0.00) 100%);
+    width: 90%;
+    height: 100%;
+}
+
+.ti7{
+    border-radius: 0px 0px 20px 20px;
+    background: linear-gradient(357deg, #322747 0%, rgba(50, 39, 71, 0.00) 100%);
+    width:100%;
+    height: 100%;
+}
+
+.mob2{
+    display: grid;
+    width:100%;
+    height:100%;
+    margin:0.5%;
+    margin-top:0 ;
+    grid-template-rows: 1fr 1.7fr;
+}
+
+.ev-ti{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    height:95%;
+}
+
+.ev1{
+    border-radius: 70px 0px;
+    background: linear-gradient(360deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+    backdrop-filter: blur(2px);
+    height: 100%;
+    width: 97%;
+    position: relative;
+}
+
+.ti8{
+    border-radius: 70px 0px;
+    opacity: 0.6;
+    background: linear-gradient(180deg, #63C 0%, rgba(102, 51, 204, 0.00) 100%);
+}
+
+.three-ev-two-ti{
+    display: grid;
+    grid-template-rows: 1fr 1.1fr;
+}
+
+.ev-ev{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 93%;
+}
+
+.ev2{
+    border-radius: 50px;
+    background: linear-gradient(359deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+    backdrop-filter: blur(2px);
+    width:95%;
+    height:100%;
+    position: relative;
+}
+
+.ev3{
+    border-radius: 70px 0px;
+    background: linear-gradient(359deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+    backdrop-filter: blur(2px);
+    height:100%;
+    position: relative;
+}
+
+.two-ti-ev{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1.1fr;
+    height: 96%;
+}
+
+.ti9{
+    border-radius: 50px 0px;
+    opacity: 0.6;
+    background: linear-gradient(180deg, #9470DB 0%, rgba(148, 112, 219, 0.00) 100%);
+    height: 100%;
+    width: 89%;
+}
+
+.ev4{
+    border-radius: 50px 50px 0px 50px;
+    background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+    backdrop-filter: blur(2px);
+    height:100%;
+    width: 100%;
+    position: relative;
+}
+
+.ti10{
+    fill: linear-gradient(180deg, #140A29 30%, rgba(20, 10, 41, 0.00) 100%);
+    height:100%;
+}
+
+.ev1:hover .eve1, .ev2:hover .eve2, .ev3:hover .eve3, .ev4:hover .eve4, .ev5:hover .eve5, .ev6:hover .eve6, .ev7:hover .eve7{
+    transform: translateY(-13%);
+}
+
+.ev1:hover, .ev2:hover, .ev3:hover, .ev4:hover, .ev5:hover, .ev6:hover, .ev7:hover{
+    background: linear-gradient(0deg, #000000 0%, transparent 100%);
+    cursor: pointer;
+    transition: 0.2s;
+    /* transform: scale(1.02); */
+    font-size: 2.4rem;
+    font-weight: bolder;
+    text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.497);
+}
+
+@media screen and (max-width: 768px){
+    .body-div {
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: none;
+        min-height: 40em;
+    }
+}
+.text{
+    text-indent: 0.6em;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+    /* font-size: 40%; */
+}
+
+.mat{
+    text-indent: 0.6em;
+    font-size:13px;
+    font-style: italic;
+    font-weight: 200;
+     
+}
+
